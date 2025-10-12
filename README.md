@@ -60,6 +60,12 @@ Con√ßue pour faciliter la vie des touristes et attirer de nouveaux visiteurs, l‚
 # GIF
 
 
+<p align="center">
+  <img src="https://i.postimg.cc/kgdksh59/Whats-App-GIF-2025-10-06-at-17-05-16.gif" width="200">
+</p>
+
+
+https://i.postimg.cc/zfqzd2nj/Screen-Recording-2025-10-11-at-6-27-41-PM.gif
 
 <img src="https://i.postimg.cc/kgdksh59/Whats-App-GIF-2025-10-06-at-17-05-16.gif" width=200><br>
 
