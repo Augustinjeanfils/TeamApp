@@ -18,7 +18,7 @@
 FortLib App : 
 
 Est une application mobile innovante qui permet aux visiteurs et habitants de découvrir tous les endroits fantastiques de la ville — des plages paisibles aux sites historiques en passant par les restaurants typiques — grâce à une carte interactive et des guides immersifs.
-Conçue pour faciliter la vie des touristes et attirer de nouveaux visiteurs, l’app transforme chaque balade en aventure unique, en combinant découvertes culturelles, recommandations locales et expériences inoubliables. 🌴✨
+Conçue pour faciliter la vie des touristes et attirer de nouveaux visiteurs, l’app transforme chaque balade en aventure unique, en combinant découvertes culturelles, recommandations locales et expériences inoubliables.
 
 
 # Récit utilisateur :
