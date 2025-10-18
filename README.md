@@ -60,7 +60,7 @@ ConÃ§ue pour faciliter la vie des touristes et attirer de nouveaux visiteurs, lâ
 # GIF
 
 
-  <img src="https://github.com/Augustinjeanfils/TeamApp/blob/main/FortLib.gif" width="200">
+  <img src="https://github.com/Augustinjeanfils/TeamApp/blob/main/Screen-Recording-2025-10-11-at-6.27.41%20PM%20(1).gif" width="200">
 
 
 
